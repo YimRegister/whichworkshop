@@ -232,7 +232,7 @@ span {
   position: absolute;
   top: 50%;
   left: 50%;
-  width:calc(100vh - 90%);
+  width:calc(100vh - 60%);
   transform: translate(-50%, -55%);
 }
 
