@@ -232,8 +232,8 @@ span {
   position: absolute;
   top: 50%;
   left: 50%;
-  width:calc(100vh - 60%);
-  transform: translate(-50%, -55%);
+  width:calc(100vh - 75%);
+  transform: translate(-50%, -50%);
 }
 
 }
@@ -249,8 +249,9 @@ span {
   .boardtext {
     margin: 0 0 7% 0;
     font-size: 30px;
+
     font-weight: 700;
-    line-height: 56px;
+    line-height: 30px;
     font-family: "Philosopher", sans-serif;
     color: white;
   }
