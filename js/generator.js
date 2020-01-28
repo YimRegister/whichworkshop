@@ -1,6 +1,8 @@
-var intro_words = ["Introduction to", "Designing the", "Applied", "Building Tidy", "Professional", "Open Source", "A Practical Intro to", "Interactive Analysis of", "Deep Learning", "Big Data", "Serverless", "Deployed End-to-End", "A Streamlined Approach to", "Accelerating Analytics for", "Powerful"];
-var subject_words = ["Tidyverse","Machine Learning","Deep Learning","Big Data","Hadoop", "Scalable", "Analysis", "Biggest Data", "Deep Learned", "Survival Analysis", "Time Series", "Workflows", "Visualization", "Dashboards", "Server Pro", "Pipeline","RMarkdoen Neural Networks", "RMarkdown Databases","Shiny App", "Shiny Machine Learning", "Longitudinal Data", "TidyBlocks"];
-var final_words = ["at Scale", "with the Tidyverse", "Principles","Workflow", "Data Analysis", "with Kubernetes", "on Server Pro","on the Cloud","with Deep Learned Bookdown","Applications","with ggplot", "for Data Science","Packages","for Excel Users"];
+var intro_words = ["Introduction to", "Designing the", "Applied", "Building Tidy", "Professional", "Open Source", "A Practical Intro to", "Interactive Analysis of", "Deep Learning", "Big Data", "Serverless", "Deployed End-to-End", "A Streamlined Approach to", "Accelerating Analytics for", "Powerful", "From yaml To"];
+
+var subject_words = ["Docker Containers","Tidyverse","Machine Learning","Deep Learning","Big Data","Hadoop", "Scalable", "Analysis", "Docker", "Blockhain", "Deep Learned", "Survival Analysis", "Time Series", "Workflow", "Visualization", "Dashboards", "Server Pro", "Pipeline","RMarkdown Neural Networks", "RMarkdown Databases","Shiny App", "Shiny Machine Learning", "Longitudinal Data", "TidyBlocks"];
+
+var final_words = ["with Blockchain","at Scale", "in Docker Environments","with the Tidyverse", "Principles","Workflow", "Data Analysis", "with Kubernetes", "on Server Pro","on the Cloud","with Deep Learned Bookdown","Applications","with ggplot", "for Data Science","Packages","for Excel Users","in yaml"];
 
 var text= document.getElementById("thetext");
 function getRandom(arr, n) {
