@@ -233,7 +233,7 @@ span {
   top: 50%;
   left: 50%;
   width:calc(100vh - 80%);
-  transform: translate(-50%, -50%);
+  transform: translate(-50%, -55%);
 }
 
 }
@@ -248,7 +248,7 @@ span {
 @media (max-width: 768px) {
   .boardtext {
     margin: 0 0 7% 0;
-    font-size: 48px;
+    font-size: 40px;
     font-weight: 700;
     line-height: 56px;
     font-family: "Philosopher", sans-serif;
